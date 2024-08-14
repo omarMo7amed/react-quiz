@@ -35,7 +35,7 @@ React Quiz is a dynamic web application that allows users to test their knowledg
 Here are some screenshots of the React Quiz application:
 
 *Home Screen*
-![Quiz Selection](screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
 *Question Screen*
 ![Question Screen](screenshots/questions.png)
