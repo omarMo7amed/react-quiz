@@ -53,5 +53,5 @@ Here are some screenshots of the React Quiz application:
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: omarmohamed827@gmail.com
+- **Email**: omarmohamed8403@gmail.com
 - **LinkedIn**: [Omar Mohamed](https://www.linkedin.com/in/omar-mohamed-611773292)
